@@ -12,8 +12,8 @@ I’m a **Software Development Engineer** focused on building high-performance, 
 ---
 
 ### 🚀 What I'm Up To
-* **Learning:** Go & Rust for performance infrastructure.
-* **Building:** Scalable applications and minimalist, tactile digital products.
+* **Learning:** Java and Rust for performance infrastructure.
+* **Building:** Scalable and high performance applications.
 
 ---
 

@@ -24,28 +24,31 @@ Designing scalable systems with precision, performance, and simplicity.
 
 </div>
 
+## About Me
+
+```ts
+const anirudh = {
+  role: "Software Development Engineer",
+  focus: [
+    "Scalable Backend Systems",
+    "High Performance Applications",
+    "Developer Experience",
+  ],
+  currentlyLearning: [
+    "Rust",
+    "System Design",
+    "Distributed Systems",
+  ],
+};
+```
+
+I enjoy designing systems that are fast, reliable, and thoughtfully engineered.
+
+Currently focused on backend depth, distributed systems, systems programming, and engineering leadership.
+
+> Great software feels effortless.
+
 ---
-
-# About Me
-
-<div align="center">
-
-<p style="max-width: 620px; line-height: 1.7;">
-Software Development Engineer focused on building <b>scalable backend systems</b>, high-performance applications, and thoughtful developer experiences.
-</p>
-
-<p style="max-width: 620px; line-height: 1.7;">
-Currently exploring <b>Rust</b>, system design, and the intersection of engineering and product leadership.
-</p>
-
-<blockquote>
-“Great software feels effortless.”
-</blockquote>
-
-</div>
-
----
-
 # Tech Stack
 
 <div align="center">

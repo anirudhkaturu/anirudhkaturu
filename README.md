@@ -20,25 +20,6 @@ I am a **Software Development Engineer** passionate about designing and engineer
 | **Frontend & Design** | React.js, Tailwind CSS, Figma (UI/UX & Prototyping) |
 | **Databases & Tooling** | PostgreSQL, Drizzle ORM, Supabase, Git, Docker |
 
----
-
-### 📊 Highlighted Projects
-
-*   **SwiftRoute** – A high-performance URL shortener with real-time analytics dashboards.
-*   **Inkwell** – A highly scalable micro-blogging platform engineered with robust database transactions.
-*   **VoraCast** – A self-hosted home media server utilizing JIT transcoding and HLS streaming.
-*   **Vaulty** – A secure, intuitive document collection portal designed specifically for service firms.
-
----
-
-### ⚡ Fun Facts & Beyond Code
-
-*   🏏 When I'm not staring at a terminal, you'll probably find me on the cricket field playing as a right-handed batsman or variations of off-spin bowling.
-*   💪 Calisthenics enthusiast—always looking to push the limits of bodyweight training.
-*   🎮 High-complexity Minecraft modpacks (like ATM10) are my go-to for sandbox problem-solving.
-
----
-
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [Anirudh Katuru](https://www.linkedin.com/in/anirudh-katuru-a2168a333/)

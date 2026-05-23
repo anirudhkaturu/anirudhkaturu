@@ -41,7 +41,7 @@ I am a **Software Development Engineer** passionate about designing and engineer
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 💼 **LinkedIn:** [Anirudh Katuru](https://www.linkedin.com/in/anirudh-katuru-a2168a333/)
+- 📧 **Email:** [katuruanirudh1@gmail.com](katuruanirudh1@gmail.com)
 
 "Building efficient software today, managing impactful products tomorrow."
